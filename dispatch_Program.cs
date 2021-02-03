@@ -12,7 +12,8 @@ namespace QueuesQuickstartV12
         {
 Console.WriteLine("Azure Queue Storage client library v12 - .NET quickstart sample\n");
 
-// Retrieve the connection string for use with the application. The storage
+// Changed this andded a line.
+//Retrieve the connection string for use with the application. The storage
 // connection string is stored in an environment variable called
 // AZURE_STORAGE_CONNECTION_STRING on the machine running the application.
 // If the environment variable is created after the application is launched
