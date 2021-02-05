@@ -14,7 +14,7 @@ namespace QueuesQuickstartV12
         static async Task Main(string[] args)
         {
 Console.WriteLine("Azure Queue Storage client library v12 - .NET quickstart sample\n");
-
+// another comment,  testing github
 // Changed this andded a line.
 //Retrieve the connection string for use with the application. The storage
 // connection string is stored in an environment variable called
